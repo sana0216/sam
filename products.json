@@ -1,0 +1,12 @@
+{
+    "Products":
+    [
+        {"name":"iphone","price":"70,000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxA9b1x5YAaYVAKliREOXcT3Ax1dV6Dp4jBQ&usqp=CAU"},
+        {"name":"oneplus","price":"60,000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjwJM_EDgFeBCFD4OsPWYWIqDSnscelRSCDytv4iWoyzMzcyyZ17PornsLlo&usqp=CAc"},
+        {"name":"nokia","price":"30,000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjwJM_EDgFeBCFD4OsPWYWIqDSnscelRSCDytv4iWoyzMzcyyZ17PornsLlo&usqp=CAc"},
+        {"name":"redmi","price":"10,000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVunFzSw-HtyMUr2HfBCM4pn97FkxQfjRkg&usqp=CAU"},
+        {"name":"oppo","price":"55,000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDzLgQhvonp0mtu9-hNXcgzy4_tZjeWugKKg&usqp=CAU"},
+        {"name":"vivo","price":"20,000","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5x09WJqAdmxAxGEDWiYHi2NZcgTCiUr5mQ&usqp=CAU"}
+    ]
+    
+}

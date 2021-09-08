@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+.mobile{
+    background-color: rosybrown;
+}
+
+.mobile h1{
+    text-align: center;
+    padding: 20px 5px 5px 10px;
+}
+
+.container{
+    font-display:inherit;
+}
+.phone{
+    width:1020x;
+    height:600px;
+    text-align: center;
+    overflow: hidden;
+    padding :40px;
+}
+
+.phone img{
+    padding-top: 60px;
+    border-radius: 2px;
+    display:inline-block;
+    margin-left: inherit;
+    margin-right: inherit;
+    width:10%;
+    height:60%;
+}
+.phone h2{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight:normal;
+}
+#h2tag{
+    text-decoration: none;
+    text-align: center;
+    font-size: inherit;
+}
